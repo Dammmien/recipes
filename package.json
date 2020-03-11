@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
+    "build:css": "lessc src/css/main.less src/assets/styles/main.css",
     "build": "statik"
   },
   "statik": {

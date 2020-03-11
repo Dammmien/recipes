@@ -146,7 +146,7 @@ header a#logo {
 }
 #grid .grid-item {
   list-style: none;
-  width: 33.33%;
+  width: 25%;
   box-sizing: border-box;
   padding: 15px;
 }

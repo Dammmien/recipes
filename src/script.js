@@ -1,21 +1,11 @@
+var Jimp = require('jimp');
 const fs = require('fs');
 
-const files = fs.readdirSync('./content/recipes').forEach( file => {
-  const json = JSON.parse(fs.readFileSync(`./content/recipes/${file}`, 'utf8'));
-  const out = {
-    output: json.output,
-    data: {
-      title: json.title,
-      preparation_time: json.preparation_time,
-      cooking_time: json.cooking_time,
-      image: json.image,
-      ingredients: json.ingredients,
-      instructions: json.instructions
-    }
-  };
-
-  fs.writeFileSync(`./content/recipes/${file}`, JSON.stringify(out, null, '  '));
-} );
-
-
-console.log( files );
+fs.readdirSync('./assets/images/recipes/large').forEach(async file => {
+  try {
+    const img = await Jimp.read(`./assets/images/recipes/large/${file}`);
+    img.resize(400, Jimp.AUTO).quality(60).write(`./assets/images/recipes/thumbnails/${file}`);
+  } catch (e) {
+    console.log( e );
+  }
+});
