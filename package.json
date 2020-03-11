@@ -12,7 +12,7 @@
       "dir_scripts": "/assets/scripts/"
     },
     "src": "src",
-    "output": "docs"
+    "output": "www"
   },
   "keywords": [],
   "author": "",
