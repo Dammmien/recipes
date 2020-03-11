@@ -7,9 +7,9 @@
   },
   "statik": {
     "data": {
-      "dir_img": "/assets/images/",
-      "dir_styles": "/assets/styles/",
-      "dir_scripts": "/assets/scripts/"
+      "dir_img": "./assets/images/",
+      "dir_styles": "./assets/styles/",
+      "dir_scripts": "./assets/scripts/"
     },
     "src": "src",
     "output": "www"
