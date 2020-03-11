@@ -18,6 +18,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "statik": "git+ssh://git@github.com/Dammmien/statik.git"
+    "statik": "git+https://github.com/dammmien/statik.git"
   }
 }
