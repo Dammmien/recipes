@@ -1,0 +1,10 @@
+{
+  "template": "templates/base.mustache",
+  "directory": "./src/content/pages",
+  "partials": {
+    "header": "templates/header.mustache"
+  },
+  "data": {
+    "foo": "bar"
+  }
+}

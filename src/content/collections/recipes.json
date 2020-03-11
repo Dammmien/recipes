@@ -1,0 +1,8 @@
+{
+	"template": "templates/base.mustache",
+  "directory": "./src/content/recipes",
+	"partials": {
+		"body": "templates/recipe.mustache",
+		"header": "templates/header.mustache"
+	}
+}
