@@ -16,7 +16,8 @@ jobs:
           node-version: 13.10.1
           registry-url: https://npm.pkg.github.com/
           scope: '@dammmien'
-        run: npm i && npm run build
+
+      - run: npm test
 
       - uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
