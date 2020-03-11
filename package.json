@@ -7,9 +7,9 @@
   },
   "statik": {
     "data": {
-      "dir_img": "./assets/images/",
-      "dir_styles": "./assets/styles/",
-      "dir_scripts": "./assets/scripts/"
+      "dir_img": "assets/images/",
+      "dir_styles": "assets/styles/",
+      "dir_scripts": "assets/scripts/"
     },
     "src": "src",
     "output": "www"
@@ -18,6 +18,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dammmien/statik": "^1.0.0"
+    "@dammmien/statik": "git+ssh://git@github.com/Dammmien/statik.git"
   }
 }
