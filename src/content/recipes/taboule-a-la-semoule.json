@@ -1,0 +1,57 @@
+{
+  "output": "recipes/taboule-a-la-semoule.html",
+  "data": {
+    "title": "Taboulé à la semoule",
+    "preparation_time": 30,
+    "cooking_time": 60,
+    "image": "taboule-a-la-semoule.jpg",
+    "ingredients": [
+      {
+        "quantity": "100 gr",
+        "type": "Semoule"
+      },
+      {
+        "quantity": "1",
+        "type": "Tomates"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Concombre"
+      },
+      {
+        "quantity": "1",
+        "type": "Citron"
+      },
+      {
+        "quantity": "20 cl",
+        "type": "Huile d'olive"
+      },
+      {
+        "type": "Menthe"
+      },
+      {
+        "type": "Persil"
+      },
+      {
+        "type": "Sel et poivre"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Versez la semoule dans un grand saladier, salez et ajoutez le même volume d'eau bouillante puis laissez gonfler 15 minutes. Détachez ensuite les grains à la fourchette."
+      },
+      {
+        "text": "Coupez les tomates et le concombre en tout petits dés."
+      },
+      {
+        "text": "Pressez le jus du citron. Lavez, effeuillez et hachez finement les herbes."
+      },
+      {
+        "text": "Mélangez la semoule avec tous les légumes. Arrosez d'huile et de jus de citron, ajoutez les herbes."
+      },
+      {
+        "text": "Placez 1 heure au frais couvert de film alimentaire avant de déguster."
+      }
+    ]
+  }
+}

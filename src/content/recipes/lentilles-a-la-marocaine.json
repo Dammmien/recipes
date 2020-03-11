@@ -1,0 +1,51 @@
+{
+  "output": "recipes/lentilles-a-la-marocaine.html",
+  "data": {
+    "title": "Lentilles à la marocaine",
+    "preparation_time": 10,
+    "cooking_time": 40,
+    "image": "lentilles-a-la-marocaine.jpg",
+    "ingredients": [
+      {
+        "quantity": "100 gr",
+        "type": "Lentilles vertes"
+      },
+      {
+        "quantity": "1",
+        "type": "Carotte"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Pomme de terre"
+      },
+      {
+        "quantity": "1/4",
+        "type": "Oignon"
+      },
+      {
+        "quantity": "3",
+        "type": "Tomates cerises"
+      },
+      {
+        "type": "Concentré de tomates"
+      },
+      {
+        "type": "Épices marocaine"
+      },
+      {
+        "type": "Huile d'olive"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Épluchez les carottes, oignons, pomme de terre et coupez-les avec les tomates cerises. Rincez les lentilles et égouttez-les."
+      },
+      {
+        "text": "Versez 2 cuillères à soupe d’huile d’olive dans une sauteuse. Faites y revenir les oignons ciselés quelques minutes. Ajoutez ensuite le concentré de tomates, les épices et les lentilles."
+      },
+      {
+        "text": "Ajoutez ensuite les dés de carottes et pomme de terre puis recouvrir d’eau et laissez cuire entre 30 et 40 minutes. Rajouter de l’eau en fin de cuisson si besoin."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "output": "recipes/bruschettas-de-tomates-au-basilic.html",
+  "data": {
+    "title": "Bruschettas de tomates au basilic",
+    "preparation_time": 20,
+    "cooking_time": 25,
+    "image": "bruschettas-de-tomates-au-basilic.jpg",
+    "ingredients": [
+      {
+        "type": "Pain de campagne"
+      },
+      {
+        "type": "Basilic"
+      },
+      {
+        "type": "Ail"
+      },
+      {
+        "type": "Tomates"
+      },
+      {
+        "type": "Huile d'olive"
+      },
+      {
+        "type": "Sel et poivre"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Coupez les tomates en petits dés."
+      },
+      {
+        "text": "Faites griller les tranches de pain au four ou au grille-pain."
+      },
+      {
+        "text": "Lavez et hachez les feuilles de basilic."
+      },
+      {
+        "text": "Frottez les tartines avec la gousse d’ail épluchée et coupée en deux."
+      },
+      {
+        "text": "Versez un filet d’huile d’olive sur chaque tartine."
+      },
+      {
+        "text": "Déposez les dés de tomates. Salez et poivrez, parsemez de feuilles de basilic, ornez d’un filet d’huile d’olive."
+      }
+    ]
+  }
+}

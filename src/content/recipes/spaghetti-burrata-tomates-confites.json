@@ -1,0 +1,46 @@
+{
+  "output": "recipes/spaghetti-burrata-tomates-confites.html",
+  "data": {
+    "title": "Spaghetti à la buratta et tomates confites",
+    "preparation_time": 10,
+    "cooking_time": 15,
+    "image": "spaghetti-burrata-tomates-confites.jpg",
+    "ingredients": [
+      {
+        "type": "Tomates confites"
+      },
+      {
+        "quantity": "100 gr",
+        "type": "Spaghetti"
+      },
+      {
+        "type": "Pesto rosso"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Buratta"
+      },
+      {
+        "quantity": "1 poignée",
+        "type": "Roquette"
+      },
+      {
+        "type": "Huile d'olive"
+      },
+      {
+        "type": "Basilic"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Faites cuire les pâtes, égouttez et ajoutez le pesto rosso."
+      },
+      {
+        "text": "Placez une poignée de roquette, ajoutez les spaghetti, les tomates confites et la 1/2 burrata."
+      },
+      {
+        "text": "Assaisonnez avec de l'huile d'olive, sel, poivre et du basilic."
+      }
+    ]
+  }
+}

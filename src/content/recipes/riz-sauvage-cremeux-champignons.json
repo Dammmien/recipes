@@ -1,0 +1,69 @@
+{
+  "output": "recipes/riz-sauvage-champignons-cremeux.html",
+  "data": {
+    "title": "Marmite de riz sauvage aux champignons crémeux",
+    "preparation_time": 10,
+    "cooking_time": 50,
+    "image": "riz-sauvage-champignons-cremeux.jpg",
+    "ingredients": [
+      {
+        "quantity": "100 gr",
+        "type": "Riz mélange sauvage"
+      },
+      {
+        "quantity": "125 gr",
+        "type": "Champignons sauvages"
+      },
+      {
+        "quantity": "1/8",
+        "type": "Oignon"
+      },
+      {
+        "quantity": "1/8",
+        "type": "Citron"
+      },
+      {
+        "quantity": "1",
+        "type": "Carotte"
+      },
+      {
+        "type": "Bouillon de légumes"
+      },
+      {
+        "quantity": "5 cl",
+        "type": "Vin blanc"
+      },
+      {
+        "quantity": "5 cl",
+        "type": "Lait"
+      },
+      {
+        "quantity": "10 gr",
+        "type": "Parmesan"
+      },
+      {
+        "type": "Thym & Laurier"
+      },
+      {
+        "type": "Beurre"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Dans une grande casserole, mettre le riz, l'oignon, les carottes, le bouillon, le vin, le lait, le parmesan, le thym, les feuilles de laurier."
+      },
+      {
+        "text": "Couvrir et cuire environ 50 minutes."
+      },
+      {
+        "text": "Préchauffer le four à 200°C. Dans un plat allant au four, mettre les champignons, l'ail, le beurre, le thym, le zeste de citron, saler, poivrer."
+      },
+      {
+        "text": "Cuire environ 30 minutes, en remuant à mi-cuisson, jusqu'à ce que les champignons soient dorés et caramélisés."
+      },
+      {
+        "text": "Ajouter les champignons dans la casserole et servir."
+      }
+    ]
+  }
+}

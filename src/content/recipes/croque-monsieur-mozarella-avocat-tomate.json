@@ -12,32 +12,23 @@
       },
       {
         "quantity": 1,
-        "unit": null,
         "type": "Avocat"
       },
       {
         "quantity": 1,
-        "unit": null,
         "type": "Mozzarella"
       },
       {
         "quantity": 1,
-        "unit": null,
         "type": "Tomate"
       },
       {
-        "quantity": null,
-        "unit": null,
         "type": "Huile dolive"
       },
       {
-        "quantity": null,
-        "unit": null,
         "type": "Beurre"
       },
       {
-        "quantity": null,
-        "unit": null,
         "type": "Sel et poivre"
       }
     ],
