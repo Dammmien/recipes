@@ -1,0 +1,41 @@
+{
+  "output": "recipes/riz-pilaf-aux-legumes.html",
+  "data": {
+    "title": "Riz pilaf aux légumes",
+    "preparation_time": "10",
+    "cooking_time": "15",
+    "image": "riz-pilaf-aux-legumes.jpg",
+    "ingredients": [
+      {
+        "quantity": "100 gr",
+        "type": "Riz Complet"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Oignon"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Poireau"
+      },
+      {
+        "quantity": "1",
+        "type": "Carotte"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Émincez l'oignon les carottes et le poireau."
+      },
+      {
+        "text": "Faites-les légèrement blondir dans une sauteuse avec un peu d'huile d'olive."
+      },
+      {
+        "text": "Ajoutez le riz. Laissez-les cuire ainsi 2 minutes, jusqu'à ce qu'il devienne translucide."
+      },
+      {
+        "text": "Couvrir d'eau et laisser cuire façon pilaf."
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "output": "recipes/buddha-bowl.html",
+  "data": {
+    "title": "Buddha Bowl",
+    "preparation_time": "10",
+    "cooking_time": "15",
+    "image": "buddha-bowl.jpg",
+    "ingredients": [
+      {
+        "quantity": "100 gr",
+        "type": "Boulgour"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Avocat"
+      },
+      {
+        "quantity": "1/4",
+        "type": "Concombre"
+      },
+      {
+        "quantity": "1/4",
+        "type": "Poivron Rouge"
+      },
+      {
+        "quantity": "40 gr",
+        "type": "Feta"
+      },
+      {
+        "quantity": "4",
+        "type": "Tomates Cerise"
+      },
+      {
+        "quantity": "1/2",
+        "type": "Citron"
+      },
+      {
+        "type": "Pignon de pain"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Pendant que le boulgour cuit, couper l'avocat en lamelle, le concombre, le poivron, la feta et les tomates cerise en cubes."
+      },
+      {
+        "text": "Ajouter dans un petit récipient 5 cuillères à soupe d'huile d'olive, le jus d'un demi citron, du sel et du poivre."
+      },
+      {
+        "text": "Une fois le boulgour cuit, le déposer au fond d'une assiette puis disposer les légumes et la feta par dessus."
+      },
+      {
+        "text": "Ajouter la sauce puis parsemé d'herbe de Provence et de pignons de pains."
+      }
+    ]
+  }
+}
